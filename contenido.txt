@@ -1,0 +1,26 @@
+Tecnologias de la información (Desarrollador de software)
+
+Practiamante el Desarrollo web, la nube son como el pan y vino, como Romeo y Julieta debido a que las mismas van de la mano para brindar soluciones a la vida cotidiana, y hacer de este mundo un mejor lugar.
+
+
+¿Qué es el cloud?
+
+Antes los recursos se compartían con conexiones programadas, pero cada vez se utiliza más el método de distribución denominado cloud computing, que proporciona infraestructura,servicios, plataformas y aplicaciones según se requiera en las redes.
+
+¿Qué es la inteligencia artificial (IA)?
+
+En términos sencillos, inteligencia artificial (IA) se refiere a los sistemas o las máquinas que imitan la inteligencia humana para realizar tareas y que tienen la capacidad de mejorar iterativamente a partir de la información que recopilan. La IA se manifiesta de varias formas. Algunos ejemplos son:
+
+Los bots conversacionales que utilizan IA para comprender más rápido los problemas de los clientes y proporcionar respuestas más eficientes
+Los asistentes inteligentes utilizan la IA para analizar información crítica proveniente de grandes conjuntos de datos de texto libre para mejorar la programación
+Los motores de recomendación pueden proporcionar recomendaciones automatizadas para programas de TV según los hábitos de visualización de los usuarios
+
+
+¿De que manera se relaciona con el Desarrollo de software?
+
+Practiamante sin el cloud computing muchas cosas del internet ni siquiera existieran, debido a que la nube tiene una gran relevacia en el desarrollo de software más especificamente en el desarrollo web. Por ejemplo gracias a el servicio de hosting que brinda la nube hace mucho más facil subir una página web, debido a que el desarrollador común no necesita comprar y configurar todo el servidor y la parte de redes de esta manera haciendo más facil tener una página web y a un costo más bajo que el tener un servidor.
+
+
+¿De que manera se relaciona con la Inteligencia Artifical (AI)?
+
+Igualmente la inteligencia artificial tiene un gran peso en el desarrollo de software debido a que la misma tiene multiples usos para hacer las aplicaciones mucho más potentes, y con la misma podemos brindar más y mejores soluciones a los problemas de la vida real. Por ejemplo podemos usar la AI para mejorar el trafico de nuestro sitio web como lo hace youtube, Netflix, faceboook etc. Tambien podrias utilizar la AI para ayudar a reducir el calentamiento global etc.

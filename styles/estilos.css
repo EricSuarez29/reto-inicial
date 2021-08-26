@@ -1,0 +1,55 @@
+:root {
+    --color-bar-main: rgb(26, 36, 46);
+    --color-bar-main-active: rgba(26, 36, 46, 0.9);
+}
+
+body {
+    background-color: rgb(219, 226, 240);
+}
+
+body::-webkit-scrollbar {
+    width: 0.5rem;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: var(--color-bar-main);
+    border-radius: 0.5rem;
+}
+
+section {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon-menu {
+    width: 40px;
+    margin-right: 0.5rem;
+}
+
+.menu {
+    position: fixed;
+    width: 100vw;
+    top: 0;
+}
+
+.menu nav {
+    background-color: var(--color-bar-main);
+}
+
+.menu-active {
+    background-color: var(--color-bar-main-active);
+}
+
+p {
+    text-align: justify;
+}
+
+.footer {
+    background-color: var(--color-bar-main);
+}
+
+.icon-footer {
+    max-width: 100px;
+}
